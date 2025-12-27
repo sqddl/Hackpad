@@ -1,12 +1,14 @@
 # Hackpad
-<img width="831" height="565" alt="image" src="https://github.com/user-attachments/assets/3526981d-4e24-4704-a507-863cb946ab91" />
+<img width="831" height="565" alt="image" src="https://github.com/user-attachments/assets/3526981d-4e24-4704-a507-863cb946ab91" /> 
+This hackpad is meant to be used for convience hence the layout of 4 keys per row. Making it ideal to rest your hand on it.
+I wanted to make this so I can have specific keys for different functions for my computer.
 
 BOM:
 - 8x Cherry MX Switches
 - 8x Blank DSA Keycaps
 - 1x XIAO RP2040
 - 4x M3x16 Screws
-- 3D Printed Case
+- 3D Printed Case (2 Parts)
 
 
 | PCB | Schematics | Case |
