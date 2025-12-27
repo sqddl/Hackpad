@@ -1,6 +1,12 @@
 # Hackpad
 <img width="831" height="565" alt="image" src="https://github.com/user-attachments/assets/3526981d-4e24-4704-a507-863cb946ab91" />
 
+BOM:
+- 8x Cherry MX Switches
+- 8x Blank DSA Keycaps
+- 1x XIAO RP2040
+- 4x M3x16 Screws
+- 3D Printed Case
 
 
 | PCB | Schematics | Case |
