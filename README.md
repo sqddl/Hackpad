@@ -1,5 +1,6 @@
 # Hackpad
-<img width="865" height="560" alt="image" src="https://github.com/user-attachments/assets/a84fa9aa-026d-4a06-8159-10c17224a725" />
+<img width="831" height="565" alt="image" src="https://github.com/user-attachments/assets/3526981d-4e24-4704-a507-863cb946ab91" />
+
 
 
 | PCB | Schematics | Case |
