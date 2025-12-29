@@ -29,12 +29,7 @@ keyboard.pins = {
 }
 
 
-layer1 = Layer([KC.LSFT, KC.LCTL, KC.LALT])
-
-
-keyboard.modules.append(layer1)
-
-
 if __name__ == "__main__":
     while True:
+
         keyboard.poll()
