@@ -2,7 +2,7 @@ import board
 import digitalio
 from kmk import KMKKeyboard
 from kmk.keys import KC
-from kmk.modules import Layer
+
 
 
 keyboard = KMKKeyboard()
@@ -33,3 +33,4 @@ if __name__ == "__main__":
     while True:
 
         keyboard.poll()
+
